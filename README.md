@@ -1,8 +1,8 @@
 # Assignment 6
+<img src="https://github.com/Gabe-o/Water-Shader/blob/main/Screenshot1.png" width="500">
+
 ## Info
-Name: Gabriel Olivotto    
-Email: golivott@uwo.ca  
-Student #: 251150929
+Water shader.
 
 ## Submission
 ### A6-Water.cpp
